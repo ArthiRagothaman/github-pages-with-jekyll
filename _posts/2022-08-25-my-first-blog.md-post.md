@@ -1,4 +1,5 @@
 Welcome to my blog!
-title: My First Blog!
-Date: 2022-08-25
-
+----------------
+title: "My First stunning Blog!"
+date: 2022-08-25
+-----------------
